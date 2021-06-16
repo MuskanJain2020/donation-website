@@ -1,0 +1,25 @@
+
+  body, html {
+    height: 100%;
+    font-family: 'Abril Fatface', cursive;
+  }
+  .header{
+    background-image: url("Capture.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30%;
+    padding-top: 8%;
+    padding-left: 3%;
+    font-size: large;
+}
+
+
+#jump{
+
+  font-family: 'Roboto', sans-serif;
+  background-color:#202020 ;
+  font-size: medium;
+  color: white;
+}
+
+button{ color: black;}
